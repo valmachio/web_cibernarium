@@ -1,0 +1,5 @@
+/* Comentaris */
+header{ /*Selector d'etiqueta*/
+  height: 150px; /*Propietat: valor*/
+  background-color: red;
+}
