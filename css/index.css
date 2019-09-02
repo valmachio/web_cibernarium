@@ -1,5 +1,9 @@
 /* Comentaris */
 header{ /*Selector d'etiqueta*/
-  height: 150px; /*Propietat: valor*/
+  height: 180px; /*Propietat: valor*/
   background-color: red;
+}
+h1{
+  color: blue;
+  font-size: 90px;
 }
